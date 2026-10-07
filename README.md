@@ -1,3 +1,5 @@
+This repository was cloned from the main project, the person who created the original one made it private and I cannot contact them to make it public, so here is the cloned version. 
+
 # Health Records Management System
 
 A web-based application for storing, accessing, and managing electronic health, billing, pharmacy, and lab records.
